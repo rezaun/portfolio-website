@@ -12,7 +12,7 @@ const ABout = () => {
             </div>
             <div className='max--w-[1000px] w-full grid sm:grid-cols-2 gap-8 px-4'>
                 <div className='sm:text-right text-4xl font-bold'>
-                    <h1>Hi, I'm Clint, nice to meet you. Please take a look around.</h1>
+                    <h1>Hi, I'm Kabir, nice to meet you. Please take a look around.</h1>
                 </div>
                 <div>
                     <p>I am passionate about buildings excellent software that improves the lives of those around me. I specialize in creating software for clients ranging from individuals and small-business all the way to large enterprise corporations. what would you do if you had a software expert available at your fingertips</p>
